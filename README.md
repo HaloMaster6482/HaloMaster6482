@@ -1,4 +1,4 @@
-## Hi there 👋
+## What's up!👋
 - 🔭 I’m currently working on getting permissions to push files to a Github repository.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on projects when participating in the World Robot Olympiad.
