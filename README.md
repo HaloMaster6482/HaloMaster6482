@@ -2,7 +2,7 @@
 - 🔭 I’m currently working to prepare for the World Robot Olympiad of 2026.
 - 🤔 I’m looking for help with getting permissions to push files to a Github repository.
 - 💬 Ask me about my hobbies and what I want to become in the future
-- 📫 How to reach me: Tavish.S@outlook.com (Email)
+- 📫 How to reach me: tavishsingh710@gmail.com (Email)
 
 ---
 
