@@ -43,7 +43,7 @@ Hello! My name is Tavish Singh and I’m passionate about robotics, technology, 
 ## Contact Me 📬
 
 - **Email:** tavishsingh710@gmail.com
-- **GitHub:** [hackercode2025](https://github.com/hackercode2025)
+- **GitHub:** [HaloMaster6482](https://github.com/HaloMaster6482)
 
 ---
 
