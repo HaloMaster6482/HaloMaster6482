@@ -20,8 +20,7 @@ Hello! My name is Tavish Singh and I’m passionate about robotics, technology, 
 
 - **Programming Languages:** Python and Scratch
 - **Robotics:** Building and programming robots for competitions.
-- **Teamwork:** Enjoy collaborating with friends and teammates on cool projects.
-- **Gaming:** I love videogames like Minecraft and Clash Royale—they make me happy!
+- **Gaming:** I love videogames like Clash Royale—they make me happy!
 
 ---
 
