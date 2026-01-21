@@ -51,7 +51,3 @@ Hello! My name is Tavish Singh and I’m passionate about robotics, technology, 
 
 - I’ve built my own simple games in Scratch.
 - I dream of becoming an software engineer and a CEO of a large business in the future. I also dream of starting by own business.
-
----
-
-Thanks for visiting my GitHub profile! Feel free to reach out if you want to chat about technology and robotics. 🚀
