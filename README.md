@@ -1,4 +1,4 @@
-# Hey, I’m Tavish Singh 👋
+# Code. Optimize. Repeat. I’m Tavish Singh (HaloMaster6482)  
 **STEM student • Robotics • Python + Scratch**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=HaloMaster6482&color=blue)](https://github.com/HaloMaster6482)
@@ -12,46 +12,46 @@
 ---
 
 ## About Me 🧑‍💻
-Hi! I’m **Tavish** — I’m passionate about **robotics, technology, and programming**.
+Hi! I’m **Tavish**. I’m interested in **robotics, technology, and programming**, and I love building things that solve real problems.
 
 I started by making simple games in **Scratch**, then moved to **Python**, and now I build and program robots for competitions.
 
-- 🏫 Student interested in STEM and robotics competitions
-- 🤖 Favorite field: robotics (I want to build things that make a real difference)
-- 📚 I enjoy science & technology books, plus story books and comics
-- 🎮 I like videogames (Clash Royale is a favorite)
+A few things about me:
+- 🏫 STEM student who enjoys robotics competitions and hands-on projects
+- 🤖 Most interested in robotics (design + building + programming)
+- 📚 I enjoy science & technology books — and also stories, comics, and manga
+- 🎮 I like videogames (one favorite is *Clash Royale*)
 
 ---
 
 ## Skills & Interests 🧠
-- **Programming:** Python, Scratch
-- **Robotics:** building + programming competition robots
+- **Programming:** Python, Scratch  
+- **Robotics:** designing, building, and programming competition robots  
 - **Learning next:** Java, C++
+
+If you’re looking through my GitHub, you’ll mostly see projects where I’m learning by building.
 
 ---
 
 ## Goals 🎯
-- Compete and succeed in the **World Robot Olympiad 2026**
-- Expand my coding skills to **Java** and **C++**
-- Build more projects and share progress on GitHub
+- Compete and improve in the **World Robot Olympiad (WRO) 2026**
+- Grow from Python into **Java** and **C++**
+- Build more projects and share updates + lessons learned on GitHub
 
 ---
 
 <details>
-  <summary><b>🤖 My Robotics Project (WRO 2026)</b></summary>
+  <summary><b>🤖 My Robotics Project (WRO Robomission Junior 2026)</b></summary>
 
-  **Project name:** *(add your project name here)*  
-  **What it does:** *(1–2 lines about the robot’s mission / task)*  
-  **My role:** *(building, programming, strategy, testing, etc.)*  
-  **Tools:** *(sensors/kit/language—Python, LEGO, Arduino, etc.)*  
+  **Team name:** *ROBOTRONS.1.0*  
+  **My role:** *Programming & Building*  
+  **Tools:** *Lego SPIKE Prime*  
 
   **Progress**
-  - [ ] Idea + plan
+  - [x] Idea + plan
   - [ ] Build
-  - [ ] Programming
-  - [ ] Testing
+  - [ ] Programming + Testing
   - [ ] Competition-ready
-
 </details>
 
 <details>
@@ -59,24 +59,22 @@ I started by making simple games in **Scratch**, then moved to **Python**, and n
 
   If you have advice on:
   - preparing for robotics competitions (especially WRO),
-  - improving robot design/programming,
-  - or good beginner resources for Java/C++,
+  - improving robot design or programming,
+  - or beginner-friendly resources for Java/C++,
 
-  I’d love to hear it!
-
+  I’d love to hear it — feel free to open an issue or start a discussion on one of my repos.
 </details>
 
 <details>
   <summary><b>😄 Fun facts</b></summary>
 
-  - I’ve built simple games in Python & Scratch.
-  - I dream of becoming a **software engineer** and a **CEO** someday.
+  - I’ve built small games in Python & Scratch.
+  - I dream of becoming a **software engineer** (and maybe a **CEO**) someday.
   - I want to start my own business in the future.
-
 </details>
 
 ---
 
 ## Contact Me 📬
-- **Email:** `ingenue-number-6o@icloud.com`
+- **Email:** `ingenue-number-6o@icloud.com`  
 - **GitHub:** [HaloMaster6482](https://github.com/HaloMaster6482)
