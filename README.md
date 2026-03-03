@@ -23,7 +23,6 @@
 ---
 
 ## ░▒▓ QUICK LINKS ▓▒░
-- 🏆 **WRO 2026:** Currently participating  
 - 📫 **Email:** `ingenue-number-6o@icloud.com`  
 - 🌐 **GitHub:** https://github.com/HaloMaster6482  
 
