@@ -48,7 +48,6 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" />
 
 ### Robotics / Hardware
-<img src="https://img.shields.io/badge/LEGO-E3000B?style=for-the-badge&logo=lego&logoColor=white" />
 <img src="https://img.shields.io/badge/LEGO%20SPIKE%20Prime-FFD500?style=for-the-badge&logo=lego&logoColor=000000" />
 
 ### Next upgrades
