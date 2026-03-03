@@ -110,7 +110,6 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
   - I want to become a **software engineer** (and maybe a **CEO**) someday.  
   - I want to start my own business in the future.
 
-<img src="https://raw.githubusercontent.com/HaloMaster6482/HaloMaster6482/output/snake.svg" />
 </details>
 
 ---
