@@ -108,11 +108,18 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 
   - I’ve built small games in Python & Scratch.  
   - I want to become a **software engineer** (and maybe a **CEO**) someday.  
-  - I want to start my own business in the future.  
+  - I want to start my own business in the future.
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=HaloMaster6482&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaloMaster6482&theme=tokyo-night&hide_border=true" />
+
+</div>
 </details>
 
 ---
-
 ## 📡 CONTACT
 <a href="mailto:ingenue-number-6o@icloud.com">
   <img src="https://img.shields.io/badge/Email-ingenue--number--6o%40icloud.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
