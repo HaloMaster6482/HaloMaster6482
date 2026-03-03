@@ -54,12 +54,12 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-> If you’re browsing my GitHub, you’ll mostly see **learning-by-building** projects.
+> If you’re browsing my GitHub, you’ll mostly see **learning-by-building** projects (Only if there are any🤣).
 
 ---
 
 ## 🎯 OBJECTIVES (2026)
-- 🛰️ Compete and improve in **WRO 2026**
+- 🛰️ Compete and improve in **WRO Robomission Junior 2026**
 - 🔧 Upgrade from Python into **Java** + **C++**
 - 📦 Publish more projects + track progress in public
 
