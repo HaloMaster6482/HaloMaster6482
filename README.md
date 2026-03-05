@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⌬ CODE // OPTIMIZE // REPEAT ⌬  
+# Hello. Coder Here! 😊 
 ## Tavish Singh • <kbd>HaloMaster6482</kbd>
 
 <b>STEM student</b> • <b>Robotics</b> • <b>Python</b> + <b>Scratch</b>
