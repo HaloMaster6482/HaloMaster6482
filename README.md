@@ -92,13 +92,10 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
   - I want to become a **software engineer** (and maybe a **CEO**) someday.  
   - I want to start my own business in the future.
 
+  ### 📊 CONTRIBUTION GRAPH
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaloMaster6482&theme=react-dark&hide_border=true&area=true" />
+
 </details>
-
----
-
-## 📊 CONTRIBUTION GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaloMaster6482&theme=react-dark&hide_border=true&area=true" />
 
 ---
 ## 📡 CONTACT
