@@ -84,21 +84,6 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 ---
 
 <details>
-  <summary><b>🧩 REQUESTS // HOW YOU CAN HELP</b></summary>
-
-  <br>
-
-  If you have advice on:
-  - preparing for robotics competitions (especially WRO),
-  - improving robot design or programming,
-  - beginner-friendly resources for Java/C++,
-
-  I’d love to hear it — feel free to open an issue or start a discussion on one of my repos.
-</details>
-
----
-
-<details>
   <summary><b>😄 EXTRA DATA // FUN FACTS</b></summary>
 
   <br>
