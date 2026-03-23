@@ -35,8 +35,7 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 
 **Signal log:**
 - 🏫 STEM student who likes robotics competitions and hands-on builds  
-- 🤖 Main interest: robotics (**design + build + programming**)  
-- 📚 Reads: science/tech + stories, comics, and manga  
+- 🤖 Main interest: robotics (**design + build + programming**)    
 - 🎮 Games: *Clash Royale* and *Roblox* is a favorite  
 
 ---
