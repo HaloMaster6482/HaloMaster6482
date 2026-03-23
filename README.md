@@ -95,6 +95,12 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 </details>
 
 ---
+
+## 📊 CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaloMaster6482&theme=react-dark&hide_border=true&area=true" />
+
+---
 ## 📡 CONTACT
 <a href="mailto:ingenue-number-6o@icloud.com">
   <img src="https://img.shields.io/badge/Email-ingenue--number--6o%40icloud.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white" />
