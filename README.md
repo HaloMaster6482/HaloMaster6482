@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&height=80&lines=Developer+%F0%9F%92%BB;Student+%F0%9F%8E%93;Python+Coder+%F0%9F%90%8D;Math+Enthusiast+%F0%9F%A7%AE;Open+Source+Contributor+%F0%9F%8C%90)](https://git.io/typing-svg)
 # Hello. Coder Here! 😊 
-## <kbd>HaloMaster6482</kbd>
+## HaloMaster6482
 
 <b>STEM student</b> • <b>Robotics</b> • <b>Python</b> + <b>Scratch</b>
 
@@ -30,7 +30,7 @@
 ---
 
 ## ◈ SYSTEM PROFILE
-Hi! I’m **Tavish**. I’m interested in **robotics, technology, and programming**, and I love building things that solve real problems.
+Hi! I’m **HaloMaster6482**. I’m interested in **robotics, technology, and programming**, and I love building things that solve real problems.
 
 I started with simple games in **Scratch**, moved into **Python**, and now I build + program robots for competitions.
 
