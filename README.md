@@ -76,7 +76,7 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 
   ### ✅ MISSION STATUS
   - [x] Idea + plan  
-  - [ ] Build  
+  - [x] Build  
   - [ ] Programming + Testing  
   - [ ] Competition-ready  
 
@@ -106,3 +106,11 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 <a href="https://github.com/HaloMaster6482">
   <img src="https://img.shields.io/badge/GitHub-HaloMaster6482-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake.svg">
+</picture>
