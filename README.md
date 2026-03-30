@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&height=80&lines=Developer+%F0%9F%92%BB;Student+%F0%9F%8E%93;Python+Coder+%F0%9F%90%8D;Math+Enthusiast+%F0%9F%A7%AE;Open+Source+Contributor+%F0%9F%8C%90)](https://git.io/typing-svg)
 # Hello. Coder Here! 😊 
 ## HaloMaster6482
 
@@ -23,13 +22,13 @@
 
 ---
 
-## ░▒▓ QUICK LINKS ▓▒░
+## 🔗 QUICK LINKS
 - 📫 **Email:** `ingenue-number-6o@icloud.com`  
 - 🌐 **GitHub:** https://github.com/HaloMaster6482  
 
 ---
 
-## ◈ SYSTEM PROFILE
+## 🚀 PROFILE
 Hi! I’m **HaloMaster6482**. I’m interested in **robotics, technology, and programming**, and I love building things that solve real problems.
 
 I started with simple games in **Scratch**, moved into **Python**, and now I build + program robots for competitions.
@@ -65,38 +64,29 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 
 ---
 
-<details>
-  <summary><b>🤖 ACTIVE PROJECT // WRO Robomission Junior 2026</b></summary>
 
-  <br>
+## 🤖 ACTIVE PROJECT // WRO Robomission Junior 2026
 
-  **TEAM:** <kbd>ROBOTRONS.1.0</kbd>  
-  **ROLE:** Programming & Building  
-  **PLATFORM:** LEGO SPIKE Prime  
+**TEAM:** <kbd>ROBOTRONS.1.0</kbd>  
+**ROLE:** Programming & Building  
+**PLATFORM:** LEGO SPIKE Prime  
 
-  ### ✅ MISSION STATUS
-  - [x] Idea + plan  
-  - [x] Build  
-  - [ ] Programming + Testing  
-  - [ ] Competition-ready  
-
-</details>
+### ✅ MISSION STATUS
+- [ ] Idea + plan  
+- [ ] Build  
+- [ ] Programming + Testing  
+- [ ] Competition-ready  
 
 ---
 
-<details>
-  <summary><b>😄 EXTRA DATA // FUN FACTS</b></summary>
+## 😄 EXTRA DATA // FUN FACTS
 
-  <br>
+- I’ve built small games in Python & Scratch.  
+- I want to become a **software engineer** (and maybe a **CEO**) someday.  
+- I want to start my own business in the future.
 
-  - I’ve built small games in Python & Scratch.  
-  - I want to become a **software engineer** (and maybe a **CEO**) someday.  
-  - I want to start my own business in the future.
-
-  ### 📊 CONTRIBUTION GRAPH
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaloMaster6482&theme=react-dark&hide_border=true&area=true" />
-
-</details>
+### 📊 CONTRIBUTION GRAPH
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HaloMaster6482&theme=react-dark&hide_border=true&area=true" />
 
 ---
 ## 📡 CONTACT
@@ -106,11 +96,3 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 <a href="https://github.com/HaloMaster6482">
   <img src="https://img.shields.io/badge/GitHub-HaloMaster6482-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devNull-bootloader/devNull-bootloader/output/github-contribution-grid-snake.svg">
-</picture>
