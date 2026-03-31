@@ -72,7 +72,7 @@ I started with simple games in **Scratch**, moved into **Python**, and now I bui
 **PLATFORM:** LEGO SPIKE Prime  
 
 ### ✅ MISSION STATUS
-- [ ] Idea + plan  
+- [x] Idea + plan  
 - [ ] Build  
 - [ ] Programming + Testing  
 - [ ] Competition-ready  
