@@ -1,7 +1,7 @@
 <div align="center">
 
 # WELCOME to the PROFILE of HaloMaster6482!👋
-## by HaloMaster6482!
+## by HaloMaster6482
 
 <b>STEM student</b> • <b>Robotics</b> • <b>Python</b> + <b>Scratch</b>
 
