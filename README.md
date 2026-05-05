@@ -24,8 +24,8 @@
 
 ## 🔗 QUICK LINKS
 - 📫 **Email:** `ingenue-number-6o@icloud.com`  
-- 🌐 **GitHub:** https://github.com/HaloMaster6482  
-
+- 😸 **GitHub:** https://github.com/HaloMaster6482  
+- 🌐 **Website** 
 ---
 
 ## 🚀 PROFILE
